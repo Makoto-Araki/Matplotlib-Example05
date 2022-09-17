@@ -7,7 +7,7 @@
 ```
 frame1.head()
 ```
-![画像1](./Matplotlib-Exercises5-1.png)
+![画像1](./image01.png)
 
 <br>
 
@@ -15,11 +15,11 @@ frame1.head()
 ```
 frame2.head()
 ```
-![画像2](./Matplotlib-Exercises5-2.png)
+![画像2](./image02.png)
 
 <br>
 
 ## スーパーの来店客の購入金額を男女別にヒストグラムで表示
-![画像3](./Matplotlib-Exercises5-3.png)
+![画像3](./image03.png)
 
 <br>
